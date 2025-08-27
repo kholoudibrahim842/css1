@@ -1,0 +1,74 @@
+body {
+    background-image: url("clem-onojeghuo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(184, 37, 0, 0.747);
+    background-blend-mode: multiply;
+}
+
+
+.home {
+    color: white;
+    font-size: 20px;
+}
+
+.cont1 {
+    background-color: rgb(83, 0, 0);
+    width: 99%;
+    margin-left: 10px;
+
+}
+
+.i ul li a {
+    color: white;
+}
+
+.logo img {
+
+    width: 150px;
+    height: 40px;
+
+}
+
+button {
+    margin-left: 10px;
+    color: rgb(45, 18, 0);
+}
+
+
+
+.i2 img {
+    height: 100px;
+    width: 100px;
+}
+
+.about {
+
+    color: white;
+    font-size: 20px;
+}
+
+.il-3 img {
+    height: 100px;
+    width: 100px;
+}
+
+.our-offer {
+
+    color: white;
+    font-size: 20px;
+}
+
+.gallery {
+
+    color: white;
+    font-size: 20px;
+}
+
+.copyr {
+    color: rgb(0, 115, 255);
+}
+
+#Contact {
+    color: white;
+}
